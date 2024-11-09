@@ -1,1 +1,1 @@
-# L0124010_Dina-Hamala-Nur-Rosyidah_LearningLabs
+website ini merupakan website yang menginformasikan makanan khas kota solo, disini saya menjabarkan 3 makanan, yaitu selat solo, serabi solo dan nasi liwet. terdapat 3 menu yaitu beranda, kenal lebih dekat dan feedback. di beranda hanya ditampilkan penjelasan singkat mengenai ketiga makanan. pada menu 'kenal lebih dekat' akan dijelaskan sejarah, pembuatan, dan rekomendasi ketiga makanan tersebut, serta pada feedback pengguna dapat memberikan feedback kepada pembuat website.
